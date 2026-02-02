@@ -2,7 +2,7 @@ function Main() {
   const infos = [
     {
       title: 'Cardápio Digital',
-      link: 'https://app.cardapioweb.com/sobral_bistro__petiscos_e_hamburguer',
+      link: 'https://pedido.anota.ai/loja/sobral-bistro-burguer?f=msa',
       icon: 'https://cdn-icons-png.flaticon.com/128/878/878052.png',
     },
     {
